@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar  3 21:54:33 2021
+Updated 05022025
 
-@author: O
+@author: Original draft by Olivia and updated by Sushil
+#This script loads your kymo and saves the cropped section on the kymo with high resolution.
 """
 
 from lumicks import pylake
